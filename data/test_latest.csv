@@ -1,0 +1,536 @@
+crisis_index,crisis_name,crisis_iso3,figure_name,figure_source,figure_value,figure_date,figure_url
+1,Afghanistan,AFG,People in Need,OCHA,23700000,2023-12-23,https://reliefweb.int/node/4025885
+1,Afghanistan,AFG,People Targeted for Assistance,OCHA,17300000,2023-12-23,https://reliefweb.int/node/4025885
+1,Afghanistan,AFG,Children in Need,UNICEF,12600000,2023-12-11,https://reliefweb.int/node/4026450
+1,Afghanistan,AFG,People in Food Crisis/Emergency (IPC phase 3+),IPC,13058639,2023-12-14,https://reliefweb.int/node/4023033
+1,Afghanistan,AFG,Estimated IDPs by Conflict,UNHCR,3250000,2023-12-01,https://reliefweb.int/node/4025062
+1,Afghanistan,AFG,Estimated Conflict-Induced IDPs,UNHCR,822546,2022-06-01,https://reliefweb.int/report/afghanistan/unhcr-regional-bureau-asia-and-pacific-rbap-flash-external-update-afghanistan-situation-17-01-june-2022-two-week-coverage-period
+1,Afghanistan,AFG,Refugees & Asylum-Seekers in Afghanistan,UNHCR,52160,2023-11-01,https://reliefweb.int/node/4019237
+1,Afghanistan,AFG,Refugees & Asylum-Seekers from Afghanistan in Neighboring Countries,UNHCR,5500000,2023-11-01,https://reliefweb.int/node/4019237
+1,Afghanistan,AFG,Newly Arrived Afghans in Need of International Protection to Neighbouring Countries,UNHCR,1600000,2024-02-01,https://reliefweb.int/node/4040714
+1,Afghanistan,AFG,Conflict-Induced Displacements (per year),OCHA,0,2023-12-31,https://reliefweb.int/node/4040251/
+1,Afghanistan,AFG,Returnees from Iran (per year),OCHA,977600,2023-12-31,https://reliefweb.int/node/4040251/
+1,Afghanistan,AFG,Returnees from Pakistan (per year),OCHA,532700,2023-12-31,https://reliefweb.int/node/4040251/
+1,Afghanistan,AFG,New Displacements by Conflict & Violence (per year),IDMC,32000,2022-12-31,https://reliefweb.int/node/3960002/
+1,Afghanistan,AFG,New Displacements by Disasters (per year),IDMC,220000,2022-12-31,https://reliefweb.int/node/3960002/
+2,Bangladesh,BGD,Rohingya Refugees in Need,ISCG,978000,2023-03-07,https://reliefweb.int/node/3940765
+2,Bangladesh,BGD,People Targeted for Assistance in Cox's Bazar,ISCG,1470000,2023-03-07,https://reliefweb.int/node/3940765
+2,Bangladesh,BGD,Rohingya Children in Need,UNICEF,500780,2023-12-11,https://reliefweb.int/node/4026451
+2,Bangladesh,BGD,Newly Arrived Children from Myanmar in Need of Humanitarian Assistance,UNICEF,500000,2023-12-31,https://reliefweb.int/node/4034398
+2,Bangladesh,BGD,Total Rohingya Refugees in Cox's Bazar,ISCG,975350,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,Refugees in Kutupalong RC in Cox's Bazar,ISCG,18278,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,Refugees in Camp 24 (Leda) in Cox's Bazar,ISCG,26685,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,Refugees in Camp 26 (Nayapara) in Cox's Bazar,ISCG,41781,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,Refugees in Camp 27 (Jadimura) in Cox's Bazar,ISCG,17628,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,Refugees in Camp 25 (Ali Khali) in Cox's Bazar,ISCG,9182,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,Refugees in Camp 22 (Unchiprang) in Cox's Bazar,ISCG,23538,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,Refugees in Camp 21 (Chakmarkul) in Cox's Bazar,ISCG,16806,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,Refugees in Bhasan Char,UNHCR,32574,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,"Refugees in Camp 14, 15 and 16",UNHCR,115594,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,Refugees in Nayapara RC,UNHCR,24839,2024-01-31,https://reliefweb.int/node/4037087
+2,Bangladesh,BGD,"Refugees in Camp 1E, 1W, 2E, 2W, 3, 4, 4 Ext, 5, 6, 7, 8E, 8W, 9, 10, 11, 12, 13, 17, 18, 19, 20, 20 Ext",UNHCR,647989,2024-01-31,https://reliefweb.int/node/4037087
+3,Burkina Faso,BFA,People in Need,OCHA,6300000,2023-12-11,https://reliefweb.int/node/4020024
+3,Burkina Faso,BFA,People Targeted for Assistance,OCHA,3800000,2023-12-11,https://reliefweb.int/node/4020024
+3,Burkina Faso,BFA,People in Food Crisis/Emergency (IPC Phase 3+),CILSS,2195758,2023-04-03,https://reliefweb.int/node/3949405
+3,Burkina Faso,BFA,Children Acutely Malnourished,CILSS,479112,2024-01-02,https://reliefweb.int/node/4027127
+3,Burkina Faso,BFA,Pregnant or Lactating Women Acutely Malnourished,IPC,131415,2024-01-02,https://reliefweb.int/node/4027127
+3,Burkina Faso,BFA,Children in Need,UNICEF,3400000,2023-12-11,https://reliefweb.int/node/4026480/
+3,Burkina Faso,BFA,IDPs,UNHCR,1999127,2023-03-31,https://reliefweb.int/node/3950866
+3,Burkina Faso,BFA,Refugees & Asylum-Seekers in Burkina Faso,UNHCR,38956,2024-01-31,https://data.unhcr.org/en/situations/sahelcrisis/location/8650
+3,Burkina Faso,BFA,Malian Refugees in Burkina Faso,UNHCR,37579,2023-12-31,https://reliefweb.int/node/4034991
+3,Burkina Faso,BFA,Schools Closed due to Insecurity,UNICEF,5330,2023-12-31,https://reliefweb.int/node/4038523
+3,Burkina Faso,BFA,Students Affected by Closure of Schools,OCHA,800000,2023-12-31,https://reliefweb.int/node/4038523
+3,Burkina Faso,BFA,Health Centres Closed,OCHA,413,2023-12-31,https://reliefweb.int/node/4038523
+3,Burkina Faso,BFA,People Affected by Closure of Health Centres,OCHA,3900000,2023-12-31,https://reliefweb.int/node/4038523
+3,Burkina Faso,BFA,Attacks on Health Care (per year),WHO,1,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+3,Burkina Faso,BFA,Attacks on Health Care: Deaths (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+3,Burkina Faso,BFA,Attacks on Health Care: Injuries (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+3,Burkina Faso,BFA,People Assisted with WFP Food Assistance (per month),WFP,522870,2023-11-30,https://reliefweb.int/node/4029858
+3,Burkina Faso,BFA,New Displacements by Conflict & Violence (per year),IDMC,438000,2022-12-31,https://reliefweb.int/node/3960002
+3,Burkina Faso,BFA,New Displacements by Disasters (per year),IDMC,2400,2022-12-31,https://reliefweb.int/node/3960002
+4,Burundi,BDI,People in Need,OCHA,2700000,2023-08-01,https://reliefweb.int/node/3985132
+4,Burundi,BDI,People Targeted for Assistance,OCHA,1600000,2023-08-01,https://reliefweb.int/node/3985132
+4,Burundi,BDI,Children in Need,OCHA,946000,2023-04-30,https://reliefweb.int/node/3949892
+4,Burundi,BDI,IDPs,IOM,73931,2023-07-31,https://reliefweb.int/node/4003400
+4,Burundi,BDI,Refugees in Burundi,UNHCR,87674,2023-09-30,https://reliefweb.int/node/4010532
+4,Burundi,BDI,DRC Refugees in Burundi,UNHCR,171117,2023-12-31,https://data.unhcr.org/en/situations/drc/location/6194
+5,Cameroon,CMR,People in Need,OCHA,4300000,2023-12-11,https://reliefweb.int/node/4020024
+5,Cameroon,CMR,People Targeted for Assistance,OCHA,2300000,2023-12-11,https://reliefweb.int/node/4020024
+5,Cameroon,CMR,Children in Need,UNICEF,2500000,2023-12-11,https://reliefweb.int/node/4026481
+5,Cameroon,CMR,People in Food Crisis/Emergency (IPC Phase 3+),IPC,2940807,2023-12-12,https://reliefweb.int/node/4022538
+5,Cameroon,CMR,IDPs,UNHCR,1075252,2024-01-31,https://reliefweb.int/node/4038371
+5,Cameroon,CMR,Refugees & Asylum-Seekers in Cameroon,UNHCR,488902,2024-01-31,https://reliefweb.int/node/4038371
+5,Cameroon,CMR,Refugee & Asylum-Seeker Arrivals in Cameroon (per year),UNHCR,63,2024-01-31,https://reliefweb.int/node/4038371
+5,Cameroon,CMR,CAR Refugees in Cameroon,UNHCR,354523,2024-01-31,https://reliefweb.int/node/4038371
+5,Cameroon,CMR,Nigerian Refugees in Cameroon,UNHCR,120934,2024-01-31,https://reliefweb.int/node/4038371
+5,Cameroon,CMR,Cameroonian Refugees in Nigeria,UNHCR,64388,2023-12-31,https://reliefweb.int/node/4028979
+5,Cameroon,CMR,Cameroonian Refugees & Asylum-Seekers in Chad,UNHCR,23350,2024-01-31,https://reliefweb.int/node/4036120
+5,Cameroon,CMR,Returnees,UNHCR,658548,2024-01-31,https://reliefweb.int/node/4038371
+5,Cameroon,CMR,IDPs in North-West & South-West Regions,OCHA,638421,2023-12-31,https://reliefweb.int/node/4036867
+5,Cameroon,CMR,IDPs in Far North,IOM,453661,2023-08-29,https://reliefweb.int/node/4007122
+5,Cameroon,CMR,Returnees in Far North,IOM,198940,2023-08-29,https://reliefweb.int/node/4007122
+5,Cameroon,CMR,Out-of-camp Refugees in Far North,IOM,48165,2023-08-29,https://reliefweb.int/node/4007122
+5,Cameroon,CMR,Severely Malnourished Children in Lake Chad Basin Crisis Area,OCHA,21000,2023-10-16,https://reliefweb.int/node/4007871
+5,Cameroon,CMR,People at Food Crisis/Emergency (IPC phase 3+) in the Lake Chad Basin Crisis Area,OCHA,900000,2023-10-16,https://reliefweb.int/node/4007871
+5,Cameroon,CMR,Non-Functional Schools in the Lake Chad Basin Crisis Area,UNICEF,117,2023-10-16,https://reliefweb.int/node/4007871
+5,Cameroon,CMR,People Assisted with WFP Food Assistance (per month),WFP,481621,2023-12-31,https://reliefweb.int/node/4036459
+5,Cameroon,CMR,New Displacements by Conflict & Violence (per year),IDMC,139000,2022-12-31,https://reliefweb.int/node/3960002
+5,Cameroon,CMR,New Displacements by Disasters (per year),IDMC,66000,2022-12-31,https://reliefweb.int/node/3960002
+6,Central African Republic,CAF,People in Need,OCHA,2800000,2024-01-30,https://reliefweb.int/node/4033693
+6,Central African Republic,CAF,People Targeted for Assistance,OCHA,1900000,2024-01-30,https://reliefweb.int/node/4033693
+6,Central African Republic,CAF,IDPs,CMP,511803,2023-12-31,https://reliefweb.int/node/4036504
+6,Central African Republic,CAF,Children in Need,UNICEF,1300000,2023-11-12,https://reliefweb.int/node/4026482
+6,Central African Republic,CAF,People in Food Crisis/Emergency (IPC Phase 3+),IPC,2019858,2023-11-13,https://reliefweb.int/node/4014205
+6,Central African Republic,CAF,Children Acutely Malnourished,IPC,298000,2023-01-23,https://reliefweb.int/node/3927137
+6,Central African Republic,CAF,Pregnant or Lactating Women Acutely Malnourished,IPC,140600,2023-01-23,https://reliefweb.int/node/3927137
+6,Central African Republic,CAF,CAR Refugees & Asylum-Seekers in the Region,UNHCR,750312,2023-12-31,https://data2.unhcr.org/en/situations/car
+6,Central African Republic,CAF,CAR Refugees in Cameroon,UNHCR,354523,2024-01-31,https://reliefweb.int/node/4038371
+6,Central African Republic,CAF,CAR Refugees & Asylum-Seekers in DRC,UNHCR,211774,2023-12-31,https://data.unhcr.org/en/situations/car/location/486
+6,Central African Republic,CAF,CAR Refugees & Asylum-Seekers in Chad,UNHCR,135865,2024-01-31,https://reliefweb.int/node/4036120
+6,Central African Republic,CAF,CAR Refugees & Asylum-Seekers in Sudan,UNHCR,24000,2023-04-25,https://reliefweb.int/node/3956275
+6,Central African Republic,CAF,CAR Refugees in Republic of Congo,UNHCR,29105,2023-11-30,https://data.unhcr.org/en/situations/car/location/476
+6,Central African Republic,CAF,CAR Refugees in South Sudan,UNHCR,2365,2023-06-30,https://reliefweb.int/node/3983884
+6,Central African Republic,CAF,DRC Refugees & Asylum-Seekers in CAR,UNHCR,13094,2023-10-31,https://data.unhcr.org/en/situations/drc/location/6287
+6,Central African Republic,CAF,Incidents Affecting Humanitarian Organisations (per year),OCHA,169,2023-12-31,https://reliefweb.int/node/4027887
+6,Central African Republic,CAF,Incidents Affecting Humanitarian Organisations (per month),OCHA,14,2023-12-31,https://reliefweb.int/node/4027887
+6,Central African Republic,CAF,Attacks on Health Care (per year),WHO,1,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+6,Central African Republic,CAF,Attacks on Health Care: Deaths (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+6,Central African Republic,CAF,Attacks on Health Care: Injuries (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+6,Central African Republic,CAF,People Assisted with WFP Food Assistance (per month),WFP,265000,2023-08-31,https://reliefweb.int/node/4001362
+6,Central African Republic,CAF,New Displacements by Conflict (per year),IDMC,290000,2022-12-31,https://reliefweb.int/node/3960002
+6,Central African Republic,CAF,New Displacements by Natural Disasters (per year),IDMC,77000,2022-12-31,https://reliefweb.int/node/3960002
+7,Chad,TCD,People in Need,OCHA,5800000,2023-12-11,https://reliefweb.int/node/4020024
+7,Chad,TCD,People Targeted for Assistance,OCHA,4600000,2023-12-11,https://reliefweb.int/node/4020024
+7,Chad,TCD,Children in Need,UNICEF,4300000,2023-12-11,https://reliefweb.int/node/4026483
+7,Chad,TCD,People in Food Crisis/Emergency (IPC phase 3+),Government of Chad,1737246,2022-08-31,https://reliefweb.int/node/3879885
+7,Chad,TCD,Children Acutely Malnourished,IPC,1745801,2024-01-31,https://reliefweb.int/node/4034296
+7,Chad,TCD,Pregnant or Lactating Women Acutely Malnourished,IPC,261775,2024-01-31,https://reliefweb.int/node/4034296
+7,Chad,TCD,IDPs,UNHCR,215928,2024-01-31,https://reliefweb.int/node/4036120
+7,Chad,TCD,Refugees & Asylum-Seekers in Chad,UNHCR,1114014,2024-01-31,https://reliefweb.int/node/4036120
+7,Chad,TCD,Sudanese Refugees & Asylum-Seekers in Chad,UNHCR,931444,2024-01-31,https://reliefweb.int/node/4036120
+7,Chad,TCD,CAR Refugees & Asylum-Seekers in Chad,UNHCR,135865,2024-01-31,https://reliefweb.int/node/4036120
+7,Chad,TCD,Cameroonian Refugees & Asylum-Seekers in Chad,UNHCR,23350,2024-01-31,https://reliefweb.int/node/4036120
+7,Chad,TCD,Nigerian Refugees & Asylum-Seekers in Chad,UNHCR,21730,2024-01-31,https://reliefweb.int/node/4036120
+7,Chad,TCD,Chadian Refugees & Asylum-Seekers in Sudan,UNHCR,5000,2023-04-25,https://reliefweb.int/node/3956275
+7,Chad,TCD,Protection Incidents in Lac Region (per year),UNHCR,336,2023-06-30,https://reliefweb.int/node/3978253
+7,Chad,TCD,Protection Incidents in Lac Region (per month),UNHCR,96,2023-06-30,https://reliefweb.int/node/3978253
+7,Chad,TCD,Severely Malnourished Children in Lake Chad Basin Crisis Area,OCHA,18000,2023-10-16,https://reliefweb.int/node/4007871
+7,Chad,TCD,People at Food Crisis/Emergency (IPC phase 3+) in the Lake Chad Basin Crisis Area,OCHA,100000,2023-10-16,https://reliefweb.int/node/4007871
+7,Chad,TCD,Non-Functional Schools in the Lake Chad Basin Crisis Area,OCHA,8,2023-10-16,https://reliefweb.int/node/4007871
+7,Chad,TCD,People Assisted with WFP Food Assistance (per month),WFP,786350,2023-10-31,https://reliefweb.int/node/4023048
+7,Chad,TCD,New Displacements by Conflict & Violence (per year),IDMC,80000,2022-12-31,https://reliefweb.int/node/3960002
+7,Chad,TCD,New Displacements by Disasters (per year),IDMC,158000,2022-12-31,https://reliefweb.int/node/3960002
+8,Colombia,COL,People in Need,OCHA,8300000,2023-12-11,https://reliefweb.int/node/4020024
+8,Colombia,COL,People Targeted for Assistance,OCHA,1600000,2023-12-11,https://reliefweb.int/node/4020024
+8,Colombia,COL,Children in Need,OCHA,2400000,2022-02-22,https://reliefweb.int/node/3820659
+8,Colombia,COL,Venezuelan Refugees and Migrants in Colombia,R4V,2875743,2023-08-31,https://reliefweb.int/node/4019258
+8,Colombia,COL,New Displacements by Conflict and Violence (per year),IDMC,339000,2022-12-31,https://reliefweb.int/node/3960002
+8,Colombia,COL,New Displacements by Disasters (per year),IDMC,281000,2022-12-31,https://reliefweb.int/node/3960002
+8,Colombia,COL,People Receiving WFP Food Assistance (per month),WFP,257677,2023-10-31,https://reliefweb.int/node/4019513
+9,Democratic Republic of the Congo,COD,People in Need,OCHA,25400000,2023-12-11,https://reliefweb.int/node/4020024
+9,Democratic Republic of the Congo,COD,People Targeted for Assistance,OCHA,8700000,2023-12-11,https://reliefweb.int/node/4020024
+9,Democratic Republic of the Congo,COD,Chidren in Need,UNICEF,14900000,2023-12-11,https://reliefweb.int/node/4026485
+9,Democratic Republic of the Congo,COD,People in Food Crisis/Emergency (IPC phase 3+),IPC,25400000,2023-09-29,https://reliefweb.int/node/4001405
+9,Democratic Republic of the Congo,COD,Acutely Malnourished Children,IPC,1128726,2024-01-03,https://reliefweb.int/node/4027319
+9,Democratic Republic of the Congo,COD,Pregnant or Lactating Women Acutely Malnourished,IPC,605119,2024-01-03,https://reliefweb.int/node/4027319
+9,Democratic Republic of the Congo,COD,IDPs,OCHA,6500000,2023-12-31,https://reliefweb.int/node/4036537
+9,Democratic Republic of the Congo,COD,Children IDPs,OCHA,3800000,2023-12-31,https://reliefweb.int/node/4036537
+9,Democratic Republic of the Congo,COD,Returnees,OCHA,2630000,2023-12-31,https://reliefweb.int/node/4036537
+9,Democratic Republic of the Congo,COD,Refugees & Asylum-Seekers in DRC,UNHCR,526508,2023-12-31,https://reliefweb.int/node/4035457
+9,Democratic Republic of the Congo,COD,Biometrically Registered Refugees in DRC,UNHCR,222171,2023-10-31,https://reliefweb.int/node/4012959
+9,Democratic Republic of the Congo,COD,CAR Refugees & Asylum-Seekers in DRC,UNHCR,211774,2023-12-31,https://data.unhcr.org/en/situations/car/location/486
+9,Democratic Republic of the Congo,COD,Rwandan Refugees & Asylum-Seekers in DRC,UNHCR,207376,2023-12-31,https://reliefweb.int/node/4035457
+9,Democratic Republic of the Congo,COD,S. Sudanese Refugees & Asylum-Seekers in DRC,UNHCR,53552,2023-12-31,https://reliefweb.int/node/4035457
+9,Democratic Republic of the Congo,COD,Burundian Refugees & Asylum-Seekers in DRC,UNHCR,52108,2023-12-31,https://reliefweb.int/node/4035457
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers,UNHCR,1053022,2024-01-31,https://data.unhcr.org/en/situations/drc
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Uganda,UNHCR,508495,2024-01-31,https://reliefweb.int/node/4036737
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Tanzania,UNHCR,89320,2023-11-30,https://data.unhcr.org/en/situations/drc/location/6336
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Burundi,UNHCR,171117,2023-12-31,https://data.unhcr.org/en/situations/drc/location/6194
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Rwanda,UNHCR,146336,2023-12-31,https://data.unhcr.org/en/situations/drc/location/5825
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Zambia,UNHCR,60455,2023-11-30,https://data.unhcr.org/en/situations/drc/location/6336
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in South Africa,UNHCR,42080,2023-11-30,https://data.unhcr.org/en/situations/drc/location/6336
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Kenya,UNHCR,70925,2023-11-30,https://data.unhcr.org/en/situations/drc/location/6336
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Malawi,UNHCR,34159,2023-11-30,https://data.unhcr.org/en/situations/drc/location/6336
+9,Democratic Republic of the Congo,COD,DRC Refugees in Republic of Congo,UNHCR,57161,2023-11-30,https://data.unhcr.org/en/situations/drc/location/6336
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in Angola,UNHCR,36167,2023-12-31,https://data.unhcr.org/en/situations/drc/location/6336
+9,Democratic Republic of the Congo,COD,DRC Refugees in South Sudan,UNHCR,26593,2023-11-30,https://data.unhcr.org/en/situations/drc/location/6336
+9,Democratic Republic of the Congo,COD,DRC Refugees in Zimbabwe,UNHCR,12093,2023-11-30,https://data.unhcr.org/en/situations/drc/location/6336
+9,Democratic Republic of the Congo,COD,DRC Refugees & Asylum-Seekers in CAR,UNHCR,13094,2023-10-31,https://data.unhcr.org/en/situations/drc/location/6287
+9,Democratic Republic of the Congo,COD,Humanitarian Access Incidents (per month),OCHA,55,2023-03-31,https://reliefweb.int/node/3957078
+9,Democratic Republic of the Congo,COD,Attacks on Health Care (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+9,Democratic Republic of the Congo,COD,Attacks on Health Care: Deaths (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+9,Democratic Republic of the Congo,COD,Attacks on Health Care: Injuries (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+9,Democratic Republic of the Congo,COD,New Displacements by Conflict & Violence (per year),IDMC,4004000,2022-12-31,https://reliefweb.int/node/3960002
+9,Democratic Republic of the Congo,COD,New Displacements by Disasters (per year),IDMC,423000,2022-12-31,https://reliefweb.int/node/3960002
+10,Ethiopia,ETH,People in Need,Government of Ethiopia,20000000,2023-12-11,https://reliefweb.int/node/4020024
+10,Ethiopia,ETH,People Targeted for Assistance,Government of Ethiopia,14000000,2023-12-11,https://reliefweb.int/node/4020024
+10,Ethiopia,ETH,Children in Need,UNICEF,10800000,2023-12-12,https://reliefweb.int/node/4022109
+10,Ethiopia,ETH,People in Food Crisis/Emergency (IPC phase 3+),IPC,5522943,2021-06-10,https://reliefweb.int/node/3746208
+10,Ethiopia,ETH,IDPs,IOM,2400000,2023-11-30,https://reliefweb.int/node/4030106
+10,Ethiopia,ETH,IDPs Primarily Displaced due to Conflict,IOM,2237195,2023-09-30,https://reliefweb.int/node/4025083
+10,Ethiopia,ETH,IDPs Primarily Displaced due to Drought,IOM,612250,2023-09-30,https://reliefweb.int/node/4025083
+10,Ethiopia,ETH,IDPs Primarily Displaced due to Drought,IOM,612250,2023-09-30,https://reliefweb.int/node/4025083
+10,Ethiopia,ETH,IDPs Primarily Displaced due to Social Tension,IOM,324302,2023-09-30,https://reliefweb.int/node/4025083
+10,Ethiopia,ETH,Refugees & Asylum-Seekers in Ethiopia,UNHCR,963181,2023-12-31,https://reliefweb.int/node/4029121
+10,Ethiopia,ETH,S. Sudanese Refugees & Asylum-Seekers in Ethiopia,UNHCR,419304,2023-12-31,https://reliefweb.int/node/4029121
+10,Ethiopia,ETH,Somali Refugees & Asylum-Seekers in Ethiopia,UNHCR,311512,2023-12-31,https://reliefweb.int/node/4029121
+10,Ethiopia,ETH,Eritrean Refugees & Asylum-Seekers in Ethiopia,UNHCR,170631,2023-12-31,https://reliefweb.int/node/4029121
+10,Ethiopia,ETH,Sudanese Refugees and Asylum-seekers in Ethiopia,UNHCR,52595,2023-12-31,https://reliefweb.int/node/4029121
+10,Ethiopia,ETH,Yemeni Refugees and Asylum-seekers in Ethiopia,UNHCR,2503,2023-12-31,https://reliefweb.int/node/4029121
+10,Ethiopia,ETH,People Received WFP Food Assistance (per month),WFP,1600000,2023-10-31,https://reliefweb.int/node/4023859
+10,Ethiopia,ETH,New Displacements by Conflict (per year),IDMC,2032000,2022-12-31,https://reliefweb.int/node/3960002
+10,Ethiopia,ETH,New Displacements by Disasters (per year),IDMC,873000,2022-12-31,https://reliefweb.int/node/3960002
+11,Haiti,HTI,People in Need,OCHA,5500000,2024-01-19,https://reliefweb.int/node/4030922
+11,Haiti,HTI,People Targeted for Assistance,OCHA,3600000,2024-01-19,https://reliefweb.int/node/4030922
+11,Haiti,HTI,Children in Need,UNICEF,3000000,2023-12-26,https://reliefweb.int/node/4026130
+11,Haiti,HTI,People in Food Crisis/Emergency (IPC phase 3+),IPC,4346137,2023-09-20,https://reliefweb.int/node/3998877
+11,Haiti,HTI,New Displacements by Conflict & Violence (per year),IDMC,106000,2022-12-31,https://reliefweb.int/node/3960002
+11,Haiti,HTI,New Displacements by Disasters (per year),IDMC,15000,2022-12-31,https://reliefweb.int/node/3960002
+12,Iraq,IRQ,People in Need,OCHA,2500000,2022-03-27,https://reliefweb.int/node/3831615
+12,Iraq,IRQ,People Targeted for Assistance,OCHA,961000,2022-03-27,https://reliefweb.int/node/3831615
+12,Iraq,IRQ,People in Acute Need,OCHA,2400000,2021-03-09,https://reliefweb.int/node/3719933
+12,Iraq,IRQ,Children in Need,UNICEF,649170,2023-12-12,https://reliefweb.int/node/4022112
+12,Iraq,IRQ,IDPs,IOM,1142014,2023-08-31,https://reliefweb.int/node/4008521
+12,Iraq,IRQ,Returnees,IOM,4846062,2023-08-31,https://reliefweb.int/node/4008521
+12,Iraq,IRQ,IDPs in Ninewa Governorate,IOM,241507,2023-08-31,https://reliefweb.int/node/4008521
+12,Iraq,IRQ,IDPs in Dahuk Governorate,IOM,240300,2023-08-31,https://reliefweb.int/node/4008521
+12,Iraq,IRQ,IDPs in Erbil Governorate,IOM,228914,2023-08-31,https://reliefweb.int/node/4008521
+12,Iraq,IRQ,IDPs in Sulaymaniyah Governorate,IOM,132607,2023-08-31,https://reliefweb.int/node/4008521
+12,Iraq,IRQ,IDPs in Kirkuk Governorate,IOM,92664,2023-08-31,https://reliefweb.int/node/4008521
+12,Iraq,IRQ,IDPs in Salah Al-Din Governorate,IOM,50682,2023-08-31,https://reliefweb.int/node/4008521
+12,Iraq,IRQ,IDPs in Diyala Governorate,IOM,44094,2023-08-31,https://reliefweb.int/node/4008521
+12,Iraq,IRQ,IDPs in Anbar Governorate,IOM,34968,2023-08-31,https://reliefweb.int/node/4008521
+12,Iraq,IRQ,Syrian Refugees in Iraq,UNHCR,273258,2023-12-31,https://data2.unhcr.org/en/situations/syria
+12,Iraq,IRQ,Non-Syrian Refugees in Iraq,UNHCR,29105,2023-08-31,https://data.unhcr.org/en/situations/syria/location/5
+12,Iraq,IRQ,Iraqi Refugees in Jordan,UNHCR,55329,2024-02-15,https://reliefweb.int/node/4039920
+12,Iraq,IRQ,New Displacements by Conflict & Violence (per year),IDMC,32000,2022-12-31,https://reliefweb.int/node/3960002
+12,Iraq,IRQ,New Displacements by Disasters (per year),IDMC,51000,2022-12-31,https://reliefweb.int/node/3960002
+13,Kenya,KEN,People in Need,OCHA,6400000,2023-01-31,https://reliefweb.int/node/3986324
+13,Kenya,KEN,People Targeted for Assistance,OCHA,4300000,2023-01-31,https://reliefweb.int/node/3986324
+13,Kenya,KEN,Children in Need,UNICEF,1800000,2023-12-28,https://reliefweb.int/node/4026524
+13,Kenya,KEN,Food Insecure People,Government of Kenya,2786550,2023-09-01,https://reliefweb.int/node/3993830
+13,Kenya,KEN,Children under 5 Acutely Malnourished,IPC,946000,2023-09-01,https://reliefweb.int/node/3993830/
+13,Kenya,KEN,Pregnant/Lactating Women Acutely Malnourished,IPC,145000,2023-09-01,https://reliefweb.int/node/3993830/
+13,Kenya,KEN,Refugees & Asylum-Seekers in Kenya,UNHCR,654147,2023-09-30,https://reliefweb.int/node/4018377
+13,Kenya,KEN,Somali Refugees & Asylum-Seekers in Kenya,UNHCR,290635,2023-10-31,https://data.unhcr.org/en/situations/horn/location/9922
+13,Kenya,KEN,S. Sudanese Refugees & Asylum-Seekers in Kenya,UNHCR,170177,2023-09-30,https://reliefweb.int/node/4010525
+13,Kenya,KEN,DRC Refugees & Asylum-Seekers in Kenya,UNHCR,93774,2023-10-31,https://data.unhcr.org/en/situations/drc/location/7074
+13,Kenya,KEN,Ethiopian Refugees & Asylum-Seekers in Kenya,UNHCR,36654,2023-09-30,https://reliefweb.int/node/4018377
+13,Kenya,KEN,Sudanese Refugees & Asylum-Seekers in Kenya,UNHCR,10950,2023-09-30,https://reliefweb.int/node/4018377
+13,Kenya,KEN,New Displacements by Conflict & Violence (per year),IDMC,15000,2022-12-31,https://reliefweb.int/node/3960002
+13,Kenya,KEN,New Displacements by Disasters (per year),IDMC,318000,2022-12-31,https://reliefweb.int/node/3960002
+14,Lebanon,LBN,People in Need,Government of Lebanon,3800000,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Assistance,Government of Lebanon,3200000,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Basic Assistance,Government of Lebanon,2338900,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Education Assistance,Government of Lebanon,884267,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Energy Assistance,Government of Lebanon,678487,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Food Security & Agriculture Assistance,Government of Lebanon,2948400,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Health Assistance,Government of Lebanon,2689980,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Livelihoods Assistance,Government of Lebanon,99325,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Protection Assistance,Government of Lebanon,1939736,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Shelter Assistance,Government of Lebanon,681312,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Social Stability Assistance,Government of Lebanon,3249772,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Nutrition Assistance,Government of Lebanon,832162,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,People Targeted for Water Assistance,Government of Lebanon,2290903,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,Displaced Syrians in Lebanon,Government of Lebanon,1500000,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,Palestine Refugees from Syria in Lebanon,Government of Lebanon,31400,2023-05-01,https://reliefweb.int/node/3957722
+14,Lebanon,LBN,Palestine Refugees in Lebanon,Government of Lebanon,180000,2023-05-01,https://reliefweb.int/node/3957722
+15,Mali,MLI,People in Need,OCHA,7100000,2024-01-25,https://reliefweb.int/node/4032641
+15,Mali,MLI,People Targeted for Assistance,OCHA,4100000,2024-01-25,https://reliefweb.int/node/4032641
+15,Mali,MLI,Children in Need,UNICEF,4700000,2023-12-11,https://reliefweb.int/node/4026487
+15,Mali,MLI,People in Food Crisis/Emergency (IPC phase 3+),OCHA,760887,2023-03-18,https://reliefweb.int/node/3953153
+15,Mali,MLI,Children Acutely Malnourished,IPC,1407925,2023-11-03,https://reliefweb.int/node/4011852
+15,Mali,MLI,Pregnant or Lactating Women Acutely Malnourished,IPC,87865,2023-11-03,https://reliefweb.int/node/4011852
+15,Mali,MLI,Malian Refugees,UNHCR,209774,2023-12-31,https://reliefweb.int/node/4034991
+15,Mali,MLI,Malian Refugees in Niger,Government of Niger,67705,2023-12-31,https://reliefweb.int/node/4034991
+15,Mali,MLI,Malian Refugees in Mauritania,UNHCR,104324,2023-12-31,https://reliefweb.int/node/4034991
+15,Mali,MLI,Malian Refugees in Burkina Faso,UNHCR,37579,2023-12-31,https://reliefweb.int/node/4034991
+15,Mali,MLI,IDPs,IOM,354739,2023-12-31,https://reliefweb.int/node/4034991
+15,Mali,MLI,Malian Refugee Returnees,Government of Mali,85683,2023-12-31,https://reliefweb.int/node/4034991
+15,Mali,MLI,Refugees & Asylum Seekers in Mali,Government of Mali,66722,2023-12-31,https://reliefweb.int/node/4034991
+15,Mali,MLI,IDP Returnees,UNHCR,803410,2023-12-31,https://reliefweb.int/node/4034991
+15,Mali,MLI,Non-Functional Schools,Education Cluster,1722,2023-06-30,https://reliefweb.int/node/3995453
+15,Mali,MLI,Non-Functional Health Centres,OCHA,67,2023-12-18,https://reliefweb.int/node/4026480
+15,Mali,MLI,Humanitarian Access Incidents (per month),OCHA,64,2023-12-31,https://reliefweb.int/node/4032926
+15,Mali,MLI,Attacks on Health Care (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+15,Mali,MLI,Attacks on Health Care: Deaths (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+15,Mali,MLI,Attacks on Health Care: Injuries (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+15,Mali,MLI,People Received WFP Food Assistance (per month),WFP,951895,2022-06-30,https://reliefweb.int/node/3879654
+15,Mali,MLI,New Displacements by Conflict & Violence (per year),IDMC,154000,2022-12-31,https://reliefweb.int/node/3960002
+15,Mali,MLI,New Displacements by Disasters (per year),IDMC,24000,2022-12-31,https://reliefweb.int/node/3960002
+16,Mozambique,MOZ,People in Need,OCHA,2300000,2023-12-28,https://reliefweb.int/node/4026513
+16,Mozambique,MOZ,People Targeted for Assistance,OCHA,1700000,2023-12-28,https://reliefweb.int/node/4026513
+16,Mozambique,MOZ,Children in Need,UNICEF,1100000,2022-12-05,https://reliefweb.int/node/3923842
+16,Mozambique,MOZ,People in Food Crisis/Emergency (IPC phase 3+),IPC,3289565,2023-11-28,https://reliefweb.int/node/4025558
+16,Mozambique,MOZ,Children Acutely Malnourished,IPC,209250,2023-11-28,https://reliefweb.int/node/4025558
+16,Mozambique,MOZ,Pregnant or Lactating Women Acutely Malnourished,IPC,72199,2023-11-28,https://reliefweb.int/node/4025558
+16,Mozambique,MOZ,IDPs,IOM,1028743,2023-11-30,https://reliefweb.int/node/3928334
+16,Mozambique,MOZ,Mozambican Refugees & Asylum-Seekers in Zimbabwe,UNHCR,8310,2023-01-31,https://reliefweb.int/node/3938102
+16,Mozambique,MOZ,People Received WFP Food Assistance (per month),WFP,343756,2023-12-31,https://reliefweb.int/node/4034308
+16,Mozambique,MOZ,New Displacements by Conflict & Violence (per year),IDMC,283000,2022-12-31,https://reliefweb.int/node/3960002
+16,Mozambique,MOZ,New Displacements by Disasters (per year),IDMC,113000,2022-12-31,https://reliefweb.int/node/3960002
+17,Myanmar,MMR,People in Need,OCHA,18600000,2023-12-18,https://reliefweb.int/node/4023878
+17,Myanmar,MMR,People Targeted for Assistance,OCHA,5300000,2023-12-18,https://reliefweb.int/node/4023878
+17,Myanmar,MMR,Children in Need,UNICEF,6000000,2023-12-11,https://reliefweb.int/node/4026457
+17,Myanmar,MMR,IDPs displaced since Feb 2021,UNHCR,2280900,2024-01-22,https://reliefweb.int/node/4032464
+17,Myanmar,MMR,IDPs in Kachin & Northern Shan States,CCCM Cluster,106841,2023-12-31,https://reliefweb.int/node/4036795
+17,Myanmar,MMR,Myanmar Refugees in Thailand,UNHCR,91004,2023-03-31,https://reliefweb.int/node/3950352/
+17,Myanmar,MMR,New Displacements by Conflict & Violence (per year),IDMC,1006000,2022-12-31,https://reliefweb.int/node/3960002/
+17,Myanmar,MMR,New Displacements by Natural Disasters (per year),IDMC,13000,2022-12-31,https://reliefweb.int/node/3960002/
+17,Myanmar,MMR,Total Incidents - Landmines/ERW,UNICEF,208,2023-04-30,https://reliefweb.int/node/3971106
+17,Myanmar,MMR,People Killed by Landmines/ERW,UNICEF,82,2023-04-30,https://reliefweb.int/node/3971106
+17,Myanmar,MMR,People Injured by Landmines/ERW,UNICEF,306,2023-04-30,https://reliefweb.int/node/3971106
+18,Niger,NER,People in Need,OCHA,4500000,2023-12-11,https://reliefweb.int/node/4020024
+18,Niger,NER,People Targeted for Assistance,OCHA,2700000,2023-12-11,https://reliefweb.int/node/4020024
+18,Niger,NER,Children in Need,UNICEF,2400000,2023-12-11,https://reliefweb.int/node/4026488
+18,Niger,NER,Acutely Malnourished Children,IPC,1887582,2023-03-06,https://reliefweb.int/node/3940512
+18,Niger,NER,Pregnant or Lactating Women Acutely Malnourished,IPC,154198,2023-03-06,https://reliefweb.int/node/3940512
+18,Niger,NER,Severely Malnourished Children in Lake Chad Basin Crisis Area,OCHA,18000,2023-10-16,https://reliefweb.int/node/4007871
+18,Niger,NER,People in Food Crisis/Emergency (IPC phase 3+) in Lake Chad Basin Crisis Area,OCHA,200000,2023-10-16,https://reliefweb.int/node/4007871
+18,Niger,NER,Non-Functional Schools in Lake Chad Basin Crisis Area,OCHA,26,2023-10-16,https://reliefweb.int/node/4007871
+18,Niger,NER,Refugees & Asylum-Seekers in Niger,UNHCR,305584,2023-12-31,https://reliefweb.int/node/4028429
+18,Niger,NER,Nigerian Refugees in Niger,UNHCR,200554,2023-12-31,https://reliefweb.int/node/4028429
+18,Niger,NER,Malian Refugees in Niger,Government of Niger,67705,2023-12-31,https://reliefweb.int/node/4034991
+18,Niger,NER,IDPs,Government of Niger,335277,2023-12-31,https://reliefweb.int/node/4028429
+18,Niger,NER,Non-Functional Schools in Western Niger,UNICEF,952,2023-09-30,https://reliefweb.int/node/4007870
+18,Niger,NER,Non-Functional Health Centres in Western Niger,UNICEF,7,2023-09-30,https://reliefweb.int/node/4007870
+18,Niger,NER,People Received WFP Food Assistance (per month),WFP,1200000,2023-07-31,https://reliefweb.int/node/3992416
+18,Niger,NER,New Displacements by Conflict (per year),IDMC,101000,2022-12-31,https://reliefweb.int/node/3960002
+18,Niger,NER,New Displacements by Disasters (per year),IDMC,248000,2022-12-31,https://reliefweb.int/node/3960002
+19,Nigeria,NGA,People in Acute Need,OCHA,2400000,2023-02-16,https://reliefweb.int/node/3934199
+19,Nigeria,NGA,People in Need,OCHA,7900000,2023-12-11,https://reliefweb.int/node/4020024
+19,Nigeria,NGA,People Targeted for Assistance,OCHA,4400000,2023-12-11,https://reliefweb.int/node/4020024
+19,Nigeria,NGA,Children in Need,UNICEF,4500000,2023-12-11,https://reliefweb.int/node/4026489
+19,Nigeria,NGA,People in Food Crisis/Emergency (IPC phase 3+),FAO,12936583,2021-12-31,https://reliefweb.int/node/3879885
+19,Nigeria,NGA,Acutely Malnourished Children in North-East & North-West Nigeria,IPC,4410000,2023-10-17,https://reliefweb.int/node/4006719
+19,Nigeria,NGA,Pregnant or Lactating Women Acutely Malnourished in North-East & North-West Nigeria,IPC,585000,2023-10-17,https://reliefweb.int/node/4006719
+19,Nigeria,NGA,IDPs in North-East,IOM,2295534,2023-06-30,https://reliefweb.int/node/3998373
+19,Nigeria,NGA,Returnees,IOM,2110039,2023-02-28,https://reliefweb.int/node/3961736
+19,Nigeria,NGA,IDPs in North Central and North West Zones,IOM,1190293,2023-03-31,https://reliefweb.int/node/3971824
+19,Nigeria,NGA,Nigerian Refugees in the Region,UNHCR,342791,2024-01-31,https://data2.unhcr.org/en/situations/nigeriasituation
+19,Nigeria,NGA,Nigerian Refugees in Niger,UNHCR,221076,2023-10-31,https://reliefweb.int/node/4012907
+19,Nigeria,NGA,Nigerian Refugees in Cameroon,UNHCR,120934,2024-01-31,https://reliefweb.int/node/4038371
+19,Nigeria,NGA,Nigerian Refugees & Asylum-Seekers in Chad,UNHCR,21628,2023-11-30,https://reliefweb.int/node/4019946
+19,Nigeria,NGA,Cameroonian Refugees in Nigeria,UNHCR,64388,2023-12-31,https://reliefweb.int/node/4028979
+19,Nigeria,NGA,Severely Malnourished Children in Lake Chad Basin Crisis Area,OCHA,279000,2023-10-16,https://reliefweb.int/node/4007871
+19,Nigeria,NGA,People in Food Crisis/Emergency (IPC phase 3+) in Lake Chad Basin Crisis Area,OCHA,4300000,2023-10-16,https://reliefweb.int/node/4007871
+19,Nigeria,NGA,Non-Functional Schools in Lake Chad Basin Crisis Area,UNICEF,274,2023-10-16,https://reliefweb.int/node/4007871
+19,Nigeria,NGA,People Received WFP Food Assistance (per month),WFP,1107132,2023-10-31,https://reliefweb.int/node/4023230
+19,Nigeria,NGA,Attacks on Health Care (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+19,Nigeria,NGA,Attacks on Health Care: Deaths (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+19,Nigeria,NGA,Attacks on Health Care: Injuries (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+19,Nigeria,NGA,New Displacements by Conflict & Violence (per year),IDMC,148000,2022-12-31,https://reliefweb.int/node/3960002
+19,Nigeria,NGA,New Displacements by Disasters (per year),IDMC,2437000,2022-12-31,https://reliefweb.int/node/3960002
+20,occupied Palestinian territory,PSE,People in Need,OCHA,3100000,2024-02-06,https://reliefweb.int/node/4035854
+20,occupied Palestinian territory,PSE,People Targeted for Assistance,OCHA,2700000,2024-02-06,https://reliefweb.int/node/4035854
+20,occupied Palestinian territory,PSE,Children in Need,UNICEF,1500000,2023-11-10,https://reliefweb.int/node/4015164
+20,occupied Palestinian territory,PSE,Hostilities in the Gaza Strip & Israel: Palestinian Fatalities,OCHA,29514,2024-02-23,https://reliefweb.int/node/4040945
+20,occupied Palestinian territory,PSE,Hostilities in the Gaza Strip & Israel: Palestinian Injuries,OCHA,69616,2024-02-23,https://reliefweb.int/node/4040945
+20,occupied Palestinian territory,PSE,Hostilities in the Gaza Strip & Israel: Israelis and Foreign Nationals Killed,OCHA,1200,2024-02-23,https://reliefweb.int/node/4040945
+20,occupied Palestinian territory,PSE,Hostilities in the Gaza Strip & Israel: Israelis and Foreign Nationals Injured,OCHA,5400,2024-02-23,https://reliefweb.int/node/4040945
+20,occupied Palestinian territory,PSE,Hostilities in the Gaza Strip & Israel: Internally Displaced,OCHA,1700000,2024-02-23,https://reliefweb.int/node/4040945
+20,occupied Palestinian territory,PSE,Hostilities in the Gaza Strip & Israel: Education Facilities Reportedly Damaged,OCHA,392,2024-02-23,https://reliefweb.int/node/4040945
+20,occupied Palestinian territory,PSE,Hostilities in the Gaza Strip & Israel: Students with no Access to Education,OCHA,625000,2024-02-23,https://reliefweb.int/node/4040945
+20,occupied Palestinian territory,PSE,Hostilities in the Gaza Strip & Israel: Humanitarian Truckloads Entered Gaza (per day),OCHA,42,2024-02-22,https://reliefweb.int/node/4040945
+20,occupied Palestinian territory,PSE,Attacks on Health Care (since 7 Oct),WHO,754,2024-02-21,https://extranet.who.int/ssa/Index.aspx
+20,occupied Palestinian territory,PSE,Attacks on Health Care: Deaths (since 7 Oct),WHO,669,2024-02-21,https://extranet.who.int/ssa/Index.aspx
+20,occupied Palestinian territory,PSE,Attacks on Health Care: Injuries (since 7 Oct),WHO,908,2024-02-21,https://extranet.who.int/ssa/Index.aspx
+20,occupied Palestinian territory,PSE,People Received WFP Food & Cash Assistance (since 7 Oct per month),WFP,1300000,2024-01-31,https://reliefweb.int/node/4035736
+21,Somalia,SOM,People Affected by Drought,OCHA,6900000,2023-12-27,https://reliefweb.int/node/4026261/
+21,Somalia,SOM,People Targeted for Assistance,OCHA,4760000,2023-12-27,https://reliefweb.int/node/4026261/
+21,Somalia,SOM,People Reached,OCHA,7300000,2022-12-31,https://reliefweb.int/node/3929524
+21,Somalia,SOM,People in Food Crisis/Emergency (IPC phase 3+),FSNAU,4008110,2024-02-15,https://reliefweb.int/node/4038536
+21,Somalia,SOM,Acutely Malnourished Children Below 5,FSNAU,1700000,2024-02-15,https://reliefweb.int/node/4038536
+21,Somalia,SOM,IDPs,UNHCR,3864000,2023-04-30,https://reliefweb.int/node/3963819
+21,Somalia,SOM,Total Internal Displacements (per year),UNHCR,2944000,2023-12-31,https://reliefweb.int/node/4029707
+21,Somalia,SOM,Total Internal Displacements (per month),UNHCR,86000,2023-12-31,https://reliefweb.int/node/4029707
+21,Somalia,SOM,Internally Displaced due to Conflict/Insecurity (per year),UNHCR,653000,2023-12-31,https://reliefweb.int/node/4029707
+21,Somalia,SOM,Internally Displaced due to Conflict/Insecurity (per month),UNHCR,3000,2023-12-31,https://reliefweb.int/node/4029707
+21,Somalia,SOM,Internally Displaced due to Drought (per year),UNHCR,531000,2023-12-31,https://reliefweb.int/node/4029707
+21,Somalia,SOM,Internally Displaced due to Drought (per month),UNHCR,4000,2023-12-31,https://reliefweb.int/node/4029707
+21,Somalia,SOM,Internally Displaced due to Floods (per year),UNHCR,1691700,2023-12-31,https://reliefweb.int/node/4029707
+21,Somalia,SOM,Internally Displaced due to Floods (per month),UNHCR,77000,2023-12-31,https://reliefweb.int/node/4029707
+21,Somalia,SOM,Total Refugee Returnees in Somalia (since 2020),UNHCR,8978,2023-12-31,https://reliefweb.int/node/4029703
+21,Somalia,SOM,Total Assisted Refugee Returnees in Somalia (since 2020),UNHCR,3641,2023-12-31,https://reliefweb.int/node/4029703
+21,Somalia,SOM,Total Spontaneous Refugee Returnees in Somalia (since 2020),UNHCR,5337,2023-12-31,https://reliefweb.int/node/4029703
+21,Somalia,SOM,Somali Refugees in the Horn of Africa & Yemen,UNHCR,702790,2023-12-31,https://data2.unhcr.org/en/situations/horn
+21,Somalia,SOM,Somali Refugees & Asylum-Seekers in Kenya,UNHCR,290635,2023-10-31,https://data.unhcr.org/en/situations/horn/location/9922
+21,Somalia,SOM,Somali Refugees & Asylum-Seekers in Ethiopia,UNHCR,311512,2023-12-31,https://reliefweb.int/node/4029121
+21,Somalia,SOM,Somali Refugees & Asylum-Seekers in Uganda,UNHCR,51863,2024-01-31,https://reliefweb.int/node/4036737
+21,Somalia,SOM,Somali Refugees & Asylum-Seekers in Yemen,UNHCR,45797,2023-10-31,https://reliefweb.int/node/4020138
+21,Somalia,SOM,Somali Refugees in Djibouti,UNHCR,13452,2023-12-31,https://data2.unhcr.org/en/situations/horn
+21,Somalia,SOM,Refugees & Asylum-Seekers in Somalia,UNHCR,38269,2023-12-31,https://reliefweb.int/node/4029716
+21,Somalia,SOM,Ethiopian Refugees & Asylum-Seekers in Somalia,UNHCR,25310,2023-12-31,https://reliefweb.int/node/4029716
+21,Somalia,SOM,Yemeni Refugees & Asylum-Seekers in Somalia,UNHCR,10995,2023-12-31,https://reliefweb.int/node/4029716
+21,Somalia,SOM,Access Incidents (per month),OCHA,26,2023-09-30,https://reliefweb.int/node/4011391
+21,Somalia,SOM,People Received WFP Food Assistance (per month),WFP,3200000,2023-12-31,https://reliefweb.int/node/4033235
+21,Somalia,SOM,Attacks on Health Care (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+21,Somalia,SOM,Attacks on Health Care: Deaths (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+21,Somalia,SOM,Attacks on Health Care: Injuries (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+21,Somalia,SOM,New Displacements by Conflict & Violence (per year),IDMC,621000,2022-12-31,https://reliefweb.int/node/3960002
+21,Somalia,SOM,New Displacements by Disasters (per year),IDMC,1152000,2022-12-31,https://reliefweb.int/node/3960002
+22,South Sudan,SSD,People in Need,OCHA,9000000,2023-11-22,https://reliefweb.int/node/4016962
+22,South Sudan,SSD,People Targeted for Assistance,OCHA,6000000,2023-11-22,https://reliefweb.int/node/4016962
+22,South Sudan,SSD,Children in Need,UNICEF,5000000,2023-12-28,https://reliefweb.int/node/4026539
+22,South Sudan,SSD,People in Food Crisis/Emergency (IPC phase 3+),IPC,5830000,2023-11-06,https://reliefweb.int/node/4012245
+22,South Sudan,SSD,Acutely Malnourished Children,IPC,1650000,2023-11-06,https://reliefweb.int/node/4012244
+22,South Sudan,SSD,Pregnant or Lactating Acutely Malnourished Women,IPC,737812,2022-11-03,https://reliefweb.int/node/3912279
+22,South Sudan,SSD,S. Sudanese Refugees in the Region,UNHCR,2220551,2023-09-30,https://reliefweb.int/node/4010525
+22,South Sudan,SSD,S. Sudanese Refugee Arrivals in the Region (Cumulative per year),UNHCR,46721,2023-09-30,https://reliefweb.int/node/4010525
+22,South Sudan,SSD,S. Sudanese Spontaneous Refugee Returns,UNHCR,997743,2023-09-30,https://reliefweb.int/node/4010660
+22,South Sudan,SSD,S. Sudanese Spontaneous Refugee Returns since Nov 2017 (per year),UNHCR,62393,2023-09-30,https://reliefweb.int/node/4010660
+22,South Sudan,SSD,S. Sudanese Refugees in Uganda,UNHCR,926593,2024-01-31,https://reliefweb.int/node/4036737
+22,South Sudan,SSD,S. Sudanese Refugees & Asylum-Seekers in Sudan,UNHCR,680994,2023-09-30,https://reliefweb.int/node/4010525
+22,South Sudan,SSD,S. Sudanese Refugees & Asylum-Seekers in Ethiopia,UNHCR,419304,2023-12-31,https://reliefweb.int/node/4029121
+22,South Sudan,SSD,S. Sudanese Refugees & Asylum-Seekers in Kenya,UNHCR,170177,2023-09-30,https://reliefweb.int/node/4010525
+22,South Sudan,SSD,S. Sudanese Refugees & Asylum-Seekers in DRC,UNHCR,53552,2023-12-31,https://reliefweb.int/node/4035457
+22,South Sudan,SSD,S. Sudanese Refugees in Egypt,UNHCR,39232,2024-01-31,https://reliefweb.int/node/4035311
+22,South Sudan,SSD,IDPs,IOM,2000000,2023-12-31,https://reliefweb.int/node/4030617
+22,South Sudan,SSD,IDPs in UNMISS Protection Sites,UNMISS,40000,2023-12-31,https://reliefweb.int/node/4030617
+22,South Sudan,SSD,Refugees in South Sudan,UNHCR,333300,2023-09-30,https://reliefweb.int/node/4009320
+22,South Sudan,SSD,Sudanese Refugees in South Sudan,UNHCR,311160,2023-09-30,https://reliefweb.int/node/4009320
+22,South Sudan,SSD,DRC Refugees in South Sudan,UNHCR,26593,2023-11-30,https://data.unhcr.org/en/situations/drc/location/6336
+22,South Sudan,SSD,Ethiopian Refugees in South Sudan,UNHCR,4562,2023-07-31,https://reliefweb.int/node/3994114
+22,South Sudan,SSD,CAR Refugees in South Sudan,UNHCR,2371,2023-07-31,https://reliefweb.int/node/3994114
+22,South Sudan,SSD,Humanitarian Access Incidents (per year),OCHA,396,2023-12-31,https://reliefweb.int/node/4030944
+22,South Sudan,SSD,Humanitarian Access Incidents (per month),OCHA,27,2023-12-31,https://reliefweb.int/node/4030944
+22,South Sudan,SSD,Attacks on Health Care (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+22,South Sudan,SSD,Attacks on Health Care: Deaths (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+22,South Sudan,SSD,Attacks on Health Care: Injuries (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+22,South Sudan,SSD,People Received WFP Food Assistance (per month),WFP,2600000,2023-06-30,https://reliefweb.int/node/3991192
+22,South Sudan,SSD,New Displacements by Conflict & Violence (per year),IDMC,337000,2022-12-31,https://reliefweb.int/node/3960002
+22,South Sudan,SSD,New Displacements by Disasters (per year),IDMC,596000,2022-12-31,https://reliefweb.int/node/3960002
+23,Sudan,SDN,People in Need,OCHA,24800000,2023-12-21,https://reliefweb.int/node/4025287
+23,Sudan,SDN,People Targeted for Assistance,OCHA,14700000,2023-12-21,https://reliefweb.int/node/4025287
+23,Sudan,SDN,Clashes between SAF & RSF: Total Forcibly Displaced,UNHCR,8064631,2024-02-18,https://data2.unhcr.org/en/situations/sudansituation
+23,Sudan,SDN,Clashes between SAF & RSF: People Internally Displaced,OCHA,6217222,2024-02-07,https://reliefweb.int/node/4037828
+23,Sudan,SDN,"Clashes between SAF & RSF: Newly Arrived Refugees, Asylum-Seekers & Returnees in Neighboring Countries",UNHCR,1651898,2024-02-18,https://data2.unhcr.org/en/situations/sudansituation
+23,Sudan,SDN,Clashes between SAF & RSF: Newly Arrived Refugees & Asylum-Seekers in Neighboring Countries,UNHCR,1190648,2024-02-18,https://data2.unhcr.org/en/situations/sudansituation
+23,Sudan,SDN,Clashes between SAF & RSF: Newly Arrived Refugee Returnees in Neighboring Countries,UNHCR,461250,2024-02-18,https://data2.unhcr.org/en/situations/sudansituation
+23,Sudan,SDN,Clashes between SAF & RSF: Self-relocated Refugees in Sudan,UNHCR,195511,2023-12-31,https://data2.unhcr.org/en/situations/sudansituation
+23,Sudan,SDN,Clashes between SAF & RSF: Arrivals in Chad,UNHCR,554274,2024-02-16,https://data2.unhcr.org/en/situations/sudansituation
+23,Sudan,SDN,Clashes between SAF & RSF: Arrivals in South Sudan,UNHCR,570099,2024-02-18,https://data2.unhcr.org/en/situations/sudansituation
+23,Sudan,SDN,Clashes between SAF & RSF: Arrivals in Egypt,UNHCR,400000,2023-12-31,https://data2.unhcr.org/en/situations/sudansituation
+23,Sudan,SDN,Clashes between SAF & RSF: Arrivals in Ethiopia,UNHCR,48746,2024-02-18,https://data2.unhcr.org/en/situations/sudansituation
+23,Sudan,SDN,Clashes between SAF & RSF: Arrivals in CAR,UNHCR,28779,2024-02-12,https://reliefweb.int/node/4038707
+23,Sudan,SDN,Children in Need,UNICEF,13600000,2023-12-11,https://reliefweb.int/node/4026475
+23,Sudan,SDN,People in Food Crisis/Emergency (IPC Phase 3+),IPC,17726882,2023-12-12,https://reliefweb.int/node/4022134/
+23,Sudan,SDN,Total Refugees & Asylum-Seekers in Sudan,UNHCR,1144675,2023-03-31,https://reliefweb.int/node/3957573
+23,Sudan,SDN,New Refugee Arrivals (per year),UNHCR,12224,2023-03-31,https://reliefweb.int/node/3957573
+23,Sudan,SDN,S. Sudanese Refugees & Asylum-Seekers in Sudan,UNHCR,680994,2023-09-30,https://reliefweb.int/node/4010525
+23,Sudan,SDN,Eritrean Refugees & Asylum-Seekers in Sudan,UNHCR,136000,2023-04-25,https://reliefweb.int/node/3956275
+23,Sudan,SDN,Syrian Refugees & Asylum-Seekers in Sudan,UNHCR,93000,2023-04-25,https://reliefweb.int/node/3956275
+23,Sudan,SDN,Ethiopian Refugees & Asylum-Seekers in Sudan,UNHCR,72000,2023-04-25,https://reliefweb.int/node/3956275
+23,Sudan,SDN,CAR Refugees & Asylum-Seekers in Sudan,UNHCR,24000,2023-04-25,https://reliefweb.int/node/3956275
+23,Sudan,SDN,Chadian Refugees & Asylum-Seekers in Sudan,UNHCR,5000,2023-04-25,https://reliefweb.int/node/3956275
+23,Sudan,SDN,Yemeni Refugees & Asylum-Seekers in Sudan,UNHCR,2000,2023-04-25,https://reliefweb.int/node/3956275
+23,Sudan,SDN,IDPs,UNHCR,9052822,2023-12-31,https://reliefweb.int/node/4031972
+23,Sudan,SDN,Children IDPs,UNICEF,1580000,2022-12-31,https://reliefweb.int/node/3935178
+23,Sudan,SDN,Sudanese Refugees in Neighbouring Countries,UNHCR,1300000,2023-08-31,https://reliefweb.int/node/4000660/
+23,Sudan,SDN,Sudanese Refugees & Asylum-Seekers in Chad,UNHCR,931444,2024-01-31,https://reliefweb.int/node/4036120
+23,Sudan,SDN,Sudanese Refugees in South Sudan,UNHCR,311160,2023-09-30,https://reliefweb.int/node/4009320
+23,Sudan,SDN,Sudanese Refugees in Egypt,UNHCR,232474,2024-01-31,https://reliefweb.int/node/4035311
+23,Sudan,SDN,Sudanese Refugees & Asylum-Seekers in Ethiopia,UNHCR,52595,2023-12-31,https://reliefweb.int/node/4029121
+23,Sudan,SDN,Sudanese Refugees & Asylum-Seekers in Jordan,UNHCR,4948,2024-02-15,https://reliefweb.int/node/4039920
+23,Sudan,SDN,Sudanese Refugees & Asylum-Seekers in Libya,UNHCR,24887,2023-08-31,https://reliefweb.int/node/4000660/
+23,Sudan,SDN,Sudanese Refugees & Asylum-Seekers in Kenya,UNHCR,10855,2023-08-31,https://reliefweb.int/node/4000660/
+23,Sudan,SDN,Attacks on Health Care (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+23,Sudan,SDN,Attacks on Health Care: Deaths (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+23,Sudan,SDN,Attacks on Health Care: Injuries (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+23,Sudan,SDN,New Displacements by Conflict & Violence (per year),IDMC,314000,2022-12-31,https://reliefweb.int/node/3960002
+23,Sudan,SDN,New Displacements by Disasters (per year),IDMC,105000,2022-12-31,https://reliefweb.int/node/3960002
+24,Syria,SYR,People in Need,OCHA,15300000,2023-12-11,https://reliefweb.int/node/4020024
+24,Syria,SYR,People in Extreme and Catastrophic Need,OCHA,4100000,2022-12-22,https://reliefweb.int/node/3918702
+24,Syria,SYR,People Targeted for Assistance,OCHA,13000000,2023-12-11,https://reliefweb.int/node/4020024
+24,Syria,SYR,Children in Need,UNICEF,7000000,2023-12-11,https://reliefweb.int/node/4026476
+24,Syria,SYR,Inter-sector Reach (per month),OCHA,3110000,2023-11-30,https://reliefweb.int/node/4030394
+24,Syria,SYR,Registered Syrian Refugees in the Region,UNHCR,5075989,2024-02-08,https://data2.unhcr.org/en/situations/syria
+24,Syria,SYR,Syrian Refugees in Turkey,UNHCR,3174851,2024-02-08,https://data2.unhcr.org/en/situations/syria
+24,Syria,SYR,Syrian Refugees in Lebanon,UNHCR,784884,2023-12-31,https://data2.unhcr.org/en/situations/syria/location/36
+24,Syria,SYR,Syrian Refugees in Jordan,UNHCR,642888,2024-02-15,https://reliefweb.int/node/4039920
+24,Syria,SYR,Syrian Refugees in Iraq,UNHCR,273258,2023-12-31,https://data2.unhcr.org/en/situations/syria
+24,Syria,SYR,Syrian Refugees in Egypt,UNHCR,154794,2024-01-31,https://reliefweb.int/node/4035311
+24,Syria,SYR,Syrian Refugees & Asylum-Seekers in Sudan,UNHCR,93000,2023-04-25,https://reliefweb.int/node/3956275
+24,Syria,SYR,IDPs,OCHA,6800000,2023-08-31,https://reliefweb.int/node/3998391
+24,Syria,SYR,IDPs in Northwest Syria,UNHCR,2870000,2022-09-30,https://reliefweb.int/node/3921825
+24,Syria,SYR,IDP Movements (per month),OCHA,340,2023-12-31,https://reliefweb.int/node/4036532
+24,Syria,SYR,IDP Spontaneous Returns (per month),OCHA,292,2023-12-31,https://reliefweb.int/node/4036535
+24,Syria,SYR,Total Attacks on Health Care (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+24,Syria,SYR,Attacks on Health Care: Killed (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+24,Syria,SYR,Attacks on Health Care: Injured (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+24,Syria,SYR,People Received WFP Food Assistance (per month),WFP,5600000,2023-06-30,https://reliefweb.int/node/3983907
+24,Syria,SYR,Palestinian Refugees in Syria,UNRWA,438000,2023-01-19,https://reliefweb.int/node/3925649
+24,Syria,SYR,New Displacements by Conflict & Violence (per year),IDMC,171000,2022-12-31,https://reliefweb.int/node/3960002
+24,Syria,SYR,New Displacements by Disasters (per year),IDMC,21000,2022-12-31,https://reliefweb.int/node/3960002
+25,Ukraine,UKR,Ukrainian Refugees across Europe,UNHCR,6004100,2024-02-15,https://data.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,IDPs,IOM,3689000,2024-02-08,https://reliefweb.int/node/4036538
+25,Ukraine,UKR,Returnees,IOM,4455000,2024-02-08,https://reliefweb.int/node/4036538
+25,Ukraine,UKR,Civilians Killed since 24 Feb 2022,OHCHR,10378,2024-01-31,https://reliefweb.int/node/4036260
+25,Ukraine,UKR,Civilians Injured since 24 Feb 2022,OHCHR,19632,2024-01-31,https://reliefweb.int/node/4036260
+25,Ukraine,UKR,Civilian Casualties since 24 Feb 2022 (killed & injured),OHCHR,30010,2024-01-31,https://reliefweb.int/node/4036260
+25,Ukraine,UKR,People Reached (per year),OCHA,11000000,2023-12-31,https://reliefweb.int/node/4033926
+25,Ukraine,UKR,People in Need,OCHA,14600000,2024-01-03,https://reliefweb.int/node/4027469
+25,Ukraine,UKR,People Targeted for Assistance,OCHA,8500000,2024-01-03,https://reliefweb.int/node/4027469
+25,Ukraine,UKR,Children in Need,UNICEF,3200000,2022-10-19,https://reliefweb.int/node/3923368
+25,Ukraine,UKR,Ukrainian Refugees in Poland,UNHCR,956635,2023-12-15,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in Czech Republic,UNHCR,381400,2024-01-31,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in Moldova,UNHCR,120695,2024-01-14,https://data.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in Slovakia,UNHCR,116195,2024-02-11,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in Romania,UNHCR,78745,2024-02-05,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in Bulgaria,UNHCR,67770,2024-02-14,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in Hungary,UNHCR,65585,2024-02-13,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in Lithuania,UNHCR,52670,2024-01-31,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in Latvia,UNHCR,43825,2023-12-31,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in Estonia,UNHCR,38245,2024-02-04,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in Belarus,UNHCR,39900,2023-12-31,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Ukrainian Refugees in the Russian Federation,UNHCR,1244180,2023-06-30,https://data2.unhcr.org/en/situations/ukraine
+25,Ukraine,UKR,Attacks on Health Care (per year),WHO,29,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+25,Ukraine,UKR,Attacks on Health Care: Deaths (per year),WHO,3,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+25,Ukraine,UKR,Attacks on Health Care: Injuries (per year),WHO,25,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+25,Ukraine,UKR,Humanitarian Access Incidents (per month),OCHA,12,2023-12-31,https://reliefweb.int/node/4032776
+25,Ukraine,UKR,Conflict-related Civilian Deaths (per month),OHCHR,158,2024-01-31,https://reliefweb.int/node/4036260
+25,Ukraine,UKR,Conflict-related Civilian Injuries (per month),OHCHR,483,2024-01-31,https://reliefweb.int/node/4036260
+25,Ukraine,UKR,New Displacements by Conflict & Violence (per year),IDMC,16870000,2022-12-31,https://reliefweb.int/node/3960002
+26,Venezuela,VEN,People in Need,OCHA,7000000,2023-12-11,https://reliefweb.int/node/4020024
+26,Venezuela,VEN,People Targeted for Assistance,OCHA,5100000,2024-01-30,https://reliefweb.int/node/4034976
+26,Venezuela,VEN,Children in Need,UNICEF,3200000,2021-12-07,https://reliefweb.int/node/3798336
+26,Venezuela,VEN,Venezuelans in Latin America & the Caribbean,R4V,6540000,2023-11-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Colombia,R4V,2875743,2023-08-31,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Peru,R4V,1542004,2023-06-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Brazil,R4V,510499,2023-09-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Ecuador,R4V,474945,2023-06-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Argentina,R4V,217742,2023-01-31,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Panama,R4V,58158,2023-07-31,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Dominican Republic,R4V,124141,2023-06-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Mexico,R4V,113108,2023-06-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Costa Rica,R4V,29405,2023-07-31,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Trinidad and Tobago,R4V,36218,2023-06-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Guyana,R4V,21676,2023-06-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Aruba,R4V,17085,2023-06-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Bolivia,R4V,16350,2023-09-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Uruguay,R4V,32939,2023-06-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,Venezuelan Refugees & Migrants in Paraguay,R4V,5234,2023-09-30,https://reliefweb.int/node/4019258
+26,Venezuela,VEN,New Displacements by Disasters (per year),IDMC,13000,2022-12-31,https://reliefweb.int/node/3960002
+27,Yemen,YEM,People in Need,OCHA,18200000,2024-02-01,https://reliefweb.int/node/4034643
+27,Yemen,YEM,People Targeted for Assistance,OCHA,11200000,2024-02-01,https://reliefweb.int/node/4034643
+27,Yemen,YEM,Children in Need,UNICEF,11100000,2023-08-16,https://reliefweb.int/node/3989392
+27,Yemen,YEM,People in Food Crisis/Emergency (IPC phase 3+),IPC,4558412,2024-02-05,https://reliefweb.int/node/4035491
+27,Yemen,YEM,Acutely Malnourished Children,IPC,456000,2023-05-25,https://reliefweb.int/node/3965340
+27,Yemen,YEM,Acutely Malnourished Pregnant and Lactating Women,IPC,260000,2023-05-25,https://reliefweb.int/node/3965340
+27,Yemen,YEM,IDPs,OCHA,4523022,2022-12-31,https://data.unhcr.org/en/country/yem
+27,Yemen,YEM,IDPs in Hosting Sites,UNHCR,1576474,2023-12-31,https://data.unhcr.org/en/situations/yemen_cccm
+27,Yemen,YEM,Displaced Households (per year),UNHCR,496,2024-02-17,https://reliefweb.int/node/4039019
+27,Yemen,YEM,Refugees & Asylum-Seekers in Yemen,UNHCR,71760,2023-10-31,https://reliefweb.int/node/4020138
+27,Yemen,YEM,Somali Refugees & Asylum-Seekers in Yemen,UNHCR,45797,2023-10-31,https://reliefweb.int/node/4020138
+27,Yemen,YEM,Yemeni Refugees & Asylum-Seekers in Somalia,UNHCR,10995,2023-12-31,https://reliefweb.int/node/4029716
+27,Yemen,YEM,Yemeni Refugees & Asylum-Seekers in Djibouti,UNHCR,3364,2023-10-31,https://reliefweb.int/node/4018034
+27,Yemen,YEM,Yemeni Refugees & Asylum-Seekers in Jordan,UNHCR,12764,2024-02-15,https://reliefweb.int/node/4039920
+27,Yemen,YEM,Yemeni Refugees and Asylum-Seekers in Ethiopia,UNHCR,2503,2023-12-31,https://reliefweb.int/node/4029121
+27,Yemen,YEM,Yemeni Refugees & Asylum-Seekers in Sudan,UNHCR,2000,2023-04-25,https://reliefweb.int/node/3956275
+27,Yemen,YEM,Inter-Cluster Reach (per month),OCHA,7057537,2023-11-30,https://reliefweb.int/node/4032123
+27,Yemen,YEM,People Assisted through WFP Food Assistance (per month),WFP,5200000,2023-12-31,https://reliefweb.int/node/4035297
+27,Yemen,YEM,Attacks on Health Care (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+27,Yemen,YEM,Attacks on Health Care: Deaths (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+27,Yemen,YEM,Attacks on Health Care: Injuries (per year),WHO,0,2024-02-15,https://extranet.who.int/ssa/Index.aspx
+27,Yemen,YEM,New Displacements by Conflict (per year),IDMC,276000,2022-12-31,https://reliefweb.int/node/3960002
+27,Yemen,YEM,New Displacements by Disasters (per year),IDMC,171000,2022-12-31,https://reliefweb.int/node/3960002
