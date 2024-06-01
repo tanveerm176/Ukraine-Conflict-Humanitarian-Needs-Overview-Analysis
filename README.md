@@ -28,7 +28,7 @@
 ![](./images/neg-sentiment-word-cloud.png)
 
 **Sentiment Timeline Analysis**: We can see that the most common language spoken is English followed by Portuguese, Italian, and Middle Egyptian. English is the most common language on Twitter and it follows that users talking about the Ukraine Conflict would be communicating their thoughts in English. It is important to note that some language codes might be incorrectly classified and some user's might change their language on the application.
-|![](./images/sentiment-timeline.png)|
+![](./images/sentiment-timeline.png)
 
 ## Civilian Casualty Visualization
 
