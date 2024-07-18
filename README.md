@@ -9,7 +9,7 @@
 ## Civilian Casualty Visualization
 
 **Monthly Civilian Injuries and Deaths**
-![](images\monthly-civ-injuries-deaths.png)
+![](./images/monthly-civ-injuries-deaths.png)
 
 **Civilian Casualty Analysis**: 
 ![](./images/total-civ-casualties.png)
