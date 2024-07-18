@@ -6,6 +6,17 @@
 4. seaborn
 5. matplotlib
 
+## Civilian Casualty Visualization
+
+**Monthly Civilian Injuries and Deaths**
+![](images\monthly-civ-injuries-deaths.png)
+
+**Civilian Casualty Analysis**: 
+![](./images/total-civ-casualties.png)
+
+**Oblast Region Events & Fatalities**: 
+![](./images/events-fatalities-total-oblast.png)
+
 ## Humanitarian Needs Visualization
 
 **Cluster Heatmap Analysis**: 
@@ -34,11 +45,3 @@
 
 **Sentiment Timeline Analysis**:  
 ![](./images/sentiment-timeline.png)
-
-## Civilian Casualty Visualization
-
-**Civilian Casualty Analysis**: 
-![](./images/total-civ-casualties.png)
-
-**Oblast Region Events & Fatalities**: 
-![](./images/events-fatalities-total-oblast.png)
