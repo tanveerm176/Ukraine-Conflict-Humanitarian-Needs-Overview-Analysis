@@ -1,5 +1,5 @@
 # Ukraine Conflict Humanitarian Needs Overview Analysis
-* This project was completed in June 2024, using Python NLP and Data Analysis to understand how the conflict in Ukraine had affected Humanitarian Needs in the area. The following Python libraries were used for this project:
+* This project was completed using Python NLP and Data Analysis to understand how the conflict in Ukraine had affected Humanitarian Needs in the area. The following Python libraries were used for this project:
 1. Natural Language Toolkit
 2. pandas
 3. NumPy
